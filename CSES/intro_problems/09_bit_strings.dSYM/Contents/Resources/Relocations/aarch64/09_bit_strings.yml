@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/techno/Developer/competative-programming/CSES/intro_problems/09_bit_strings'
+relocations:     []
+...
